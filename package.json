@@ -1,7 +1,7 @@
 {
   "name": "hytinyplanet",
   "version": "1.0.0",
-  "description": "Small Module to apply a Tiny Planet Image to a 360 Image",
+  "description": "Small Module to apply a Tiny Planet effect to a 360 Image",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
